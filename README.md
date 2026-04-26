@@ -81,8 +81,8 @@ Browser → Local Proxy → Google/CDN front → Your relay → Target website
 ### Step 1: Download This Project
 
 ```bash
-git clone https://github.com/ItsRedDev/MasterHttpRelayVPN.git
-cd MasterHttpRelayVPN
+git clone https://github.com/ItsRedDev/MasterHttpRelayVPNNew.git
+cd MasterHttpRelayVPNNew
 pip install -r requirements.txt
 ```
 
